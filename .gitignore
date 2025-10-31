@@ -1,0 +1,4 @@
+node_modules/
+.vitepress/cache/
+.vitepress/dist/  # 暂时忽略，后续通过 Actions 自动部署
+.DS_Store
