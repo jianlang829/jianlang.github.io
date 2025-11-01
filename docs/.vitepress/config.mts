@@ -20,6 +20,7 @@ const getTutorialSidebar = () => {
 };
 
 export default {
+  base: "/",
   title: "我的 Markdown 文章",
   description: "用 VitePress 搭建的文章展示网站",
   // 记得根据部署路径配置 base（重要！）
