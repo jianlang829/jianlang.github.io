@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./chunks/framework.CBTkueSR.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"notes/study-note.md","filePath":"notes/study-note.md"}'),s={name:"notes/study-note.md"};function n(a,r,c,d,p,_){return o(),e("div")}const f=t(s,[["render",n]]);export{m as __pageData,f as default};
